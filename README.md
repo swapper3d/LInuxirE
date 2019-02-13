@@ -7,7 +7,7 @@ This repo contains only the configuration (recepie) files for brewing the instal
 ## Usage
 In the project root folder run:
 
-```build-simple-cdd --conf profiles/UX32LN.conf```
+```build-simple-cdd --conf profiles/UX32LN.conf --local-packages profiles/UX32LN.localpkgs```
 
 This generates an ISO-image that may be found in the ```image``` folder. Install as normal.
 
