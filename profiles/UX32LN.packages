@@ -1,0 +1,19 @@
+# multitouch trackpad
+libinput-bin
+libinput-tools
+xdotool
+wmctrl
+
+# Bluetooth (bluez)
+blueman
+
+# keyboard backlight
+upower
+
+# external monitor
+arandr
+
+# graphic card(s)
+
+# custom settings files
+erix-preferences

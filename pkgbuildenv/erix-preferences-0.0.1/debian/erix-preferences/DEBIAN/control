@@ -1,0 +1,10 @@
+Package: erix-preferences
+Version: 0.0.1
+Architecture: all
+Maintainer: Erik Halvarsson <erik@debBOX>
+Installed-Size: 17
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
